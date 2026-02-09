@@ -6,16 +6,15 @@ An end-to-end Machine Learning project that predicts laptop prices based on hard
 
 ## 📄 Project Demo
 
-You can view the complete demo of the application here:
+Click on the image below to view the complete demo of the application:
 
-🔗 **Demo PDF:**  
-https://github.com/rajsinghv1/Laptop-Price-Predictor/blob/main/demo.pdf
+[![Laptop Price Predictor Demo](demo.png)](https://github.com/rajsinghv1/Laptop-Price-Predictor/blob/main/demo.pdf)
 
-📌 The demo showcases:
+📌 The demo includes:
 - Streamlit user interface
 - Laptop feature selection
 - Price prediction output
-- Complete project workflow
+- End-to-end workflow
 
 ---
 
